@@ -29,7 +29,7 @@ class Func:
 
 # Func.x2(pu.name,pu.age)
 
-
+print ('Hello World')
 # наследование полиморфизм инкапсуляция
 
 class Student(Human):
